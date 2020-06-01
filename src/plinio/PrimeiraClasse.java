@@ -17,7 +17,8 @@ public class PrimeiraClasse {
 		System.out.println("Hey!");
 		System.out.println("Hi!");
 		System.out.println("#FiquemBem | #FiquemEmCasa");
-		
+		System.out.println("#WashYourHands| #StayAtHome | #BlackLivesMatter");
+
 	}
 
 }
