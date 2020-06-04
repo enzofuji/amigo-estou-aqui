@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Funções entre subrotinas
+//FunÃ§Å‘es entre subrotinas
 
 
 int num;
@@ -38,17 +38,17 @@ void calc (double a, double b, double r1, double r2, double r3, double r4){
 
 int main(){
 	
-double a,b,r1=0,r2=0,r3=0,r4=0;
+	double a,b,r1=0,r2=0,r3=0,r4=0;
 
-printf("Digite o valor de A: \n");
+	printf("Digite o valor de A: \n");
 
-scanf("%f",&a);
+	scanf("%f",&a);
 
-printf("Digite o valor de B: \n");
-scanf("%f",&b);
+	printf("Digite o valor de B: \n");
+	scanf("%f",&b);
 
 	
-  calc(a,b,r1,r2,r3,r4);
+  	calc(a,b,r1,r2,r3,r4);
 
  
  return 0;
